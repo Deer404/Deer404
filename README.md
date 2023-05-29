@@ -15,7 +15,7 @@ I'm constantly learning and experimenting with new technologies to enhance my sk
 
 ## My GitHub Projects
 
-There are currently no outstanding projects, and we are working hard.
+There are currently no outstanding projects, and I am working hard
 
 ## Contact Me
 
