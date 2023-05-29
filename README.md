@@ -8,7 +8,7 @@ Although I'm currently a front-end developer, my personal goal is to become a sk
 I'm passionate about building responsive and visually appealing web applications using the latest technologies in the front-end space. My skills include:
 
 - HTML5, CSS3, and JavaScript
-- React.js, Angular, and Vue.js
+- React.js and Vue.js
 - Bootstrap, Material UI, and Tailwind CSS
 
 I'm constantly learning and experimenting with new technologies to enhance my skills as a front-end developer.
