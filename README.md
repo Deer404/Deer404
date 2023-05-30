@@ -10,6 +10,9 @@ I'm passionate about building responsive and visually appealing web applications
 - HTML5, CSS3, and JavaScript
 - React.js and Vue.js
 - Bootstrap, Material UI, and Tailwind CSS
+- Nest.js Egg.js Koa Express
+- Python
+- Dart with Flutter
 
 I'm constantly learning and experimenting with new technologies to enhance my skills as a front-end developer.
 
