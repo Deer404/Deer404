@@ -19,6 +19,7 @@ I'm passionate about building responsive and visually appealing web applications
 - Python(Only used for developing web crawlers, for learning purposes.)
 - Dart with Flutter(Used to develop an app)
 - Minecraft plugin (Just a little bit)
+- angular(Because I have used nestjs to develop the backend, I want to try angular,Not yet used.)
 - more...
 ### 
 
