@@ -7,7 +7,7 @@ Although I'm currently a front-end developer, my personal goal is to become a sk
 
 I'm passionate about building responsive and visually appealing web applications using the latest technologies in the front-end space. My skills can be divided into work-related skills and personal interests:
 
-![Metrics](https://metrics.lecoq.io/Deer404?template=classic&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/Deer404?template=terminal&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FShanghai)
 ### Work-related skills:
 
 - HTML5, CSS3, and JavaScript
