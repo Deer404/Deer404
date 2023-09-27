@@ -37,4 +37,4 @@ Feel free to reach out to me via email at bakametro@gmail.com.
 
 I'm always open to collaboration opportunities and discussing new ideas. Thanks for stopping by! 🙌
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Deer404.Deer404)
+<img src="https://komarev.com/ghpvc/?username=Deer404&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
