@@ -13,7 +13,8 @@ I'm passionate about building responsive and visually appealing web applications
 - React.js and Vue.js
 - Bootstrap, Material UI, and Tailwind CSS
 - Nest.js, Egg.js, Koa, and Express
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deer403)](https://github.com/anuraghazra/github-readme-stats)
 ### Personal interests:
 
 - Python(Only used for developing web crawlers, for learning purposes.)
