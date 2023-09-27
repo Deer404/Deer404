@@ -37,4 +37,4 @@ Feel free to reach out to me via email at bakametro@gmail.com.
 
 I'm always open to collaboration opportunities and discussing new ideas. Thanks for stopping by! 🙌
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Deer404.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Deer404.Deer404)
