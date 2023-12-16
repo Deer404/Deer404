@@ -9,16 +9,17 @@ I'm passionate about building responsive and visually appealing web applications
 
 ### Work-related skills:
 
-- HTML5, CSS3, and JavaScript
-- React.js and Vue.js
-- Bootstrap, Material UI, and Tailwind CSS
+- React and Vue (I use react for work, but usually prefer Vue.)
 - Nest.js, Egg.js, Koa, and Express
+- Flutter
+- React Native
 
 ### Personal interests:
 
 - Python(Only used for developing web crawlers, for learning purposes.)
 - Dart with Flutter(Used to develop an app)
 - Minecraft plugin (Just a little bit)
+- Unity or Godot (Always interested in game development)
 - angular(Because I have used nestjs to develop the backend, I want to try angular,Not yet used.)
 - more...
 ### 
