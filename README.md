@@ -32,7 +32,7 @@ There are currently no outstanding projects, and I am working hard
 
 ## Contact Me
 
-Feel free to reach out to me via email at bakametro@gmail.com.
+Feel free to reach out to me via email at mail@deer404.com.
 
 I'm always open to collaboration opportunities and discussing new ideas. Thanks for stopping by! 🙌
 
