@@ -25,7 +25,7 @@ Tools        : Git, Figma, Linux
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=deer404&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=deer404&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&size_weight=0.5&count_weight=0.5&hide=makefile)
 
 ## Connect
 
