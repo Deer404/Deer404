@@ -4,7 +4,7 @@
 
 ## About
 
-I'm a front-end developer passionate about creating elegant and efficient web solutions. Currently expanding my skills into full-stack development with Go.
+I'm a front-end developer passionate about creating elegant and efficient web solutions. Currently expanding my skills into full-stack development with TS and Go. My goal is not just to be a front-end developer, but to become an excellent Software Development Engineer who can tackle challenges across the entire technology stack.
 
 - 🔭 Working as a Front-end Developer
 - 🌱 Learning back-end technologies
